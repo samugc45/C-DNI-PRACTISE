@@ -8,43 +8,43 @@ Colección de 10 prácticas progresivas para dominar programación en C, desde f
 
 ## 🗂️ Estructura de Prácticas
 
-### 1. `practica1/` - Fundamentos
+### 1. `practica1` - Fundamentos
    - Uso de `scanf`, variables básicas y operadores aritméticos
    - Ejemplo: Calculadora simple
 
-### 2. `practica2/` - Control de flujo
+### 2. `practica2` - Control de flujo
    - Implementación de menús con `do/while`
    - Bucles `for` para repeticiones controladas
 
-### 3. `practica3/` - Funciones y punteros
+### 3. `practica3` - Funciones y punteros
    - Modularización de código
    - Introducción a punteros básicos
 
-### 4. `practica4/` - Gestión de memoria
+### 4. `practica4` - Gestión de memoria
    - Arrays dinámicos con `malloc`
    - Manipulación de memoria
 
-### 5. `practica5/` - Aleatoriedad
+### 5. `practica5` - Aleatoriedad
    - Uso de funciones `rand()` y `srand()`
    - Generación de números pseudoaleatorios
 
-### 6. `practica6/` - Manipulación de strings
+### 6. `practica6` - Manipulación de strings
    - Funciones de la librería `<string.h>`
    - Conversión entre tipos
 
-### 7. `practica7/` - Strings avanzados
+### 7. `practica7` - Strings avanzados
    - Punteros y strings
    - Funciones personalizadas para strings
 
-### 8. `practica8/` - Algoritmos
+### 8. `practica8` - Algoritmos
    - Implementación de BubbleSort
    - Ordenación de arrays
 
-### 9. `practica9/` - Estructuras
+### 9. `practica9` - Estructuras
    - Definición y uso de `struct`
    - Tipos personalizados con `typedef`
 
-### 10. `practica10/` - Persistencia
+### 10. `practica10` - Persistencia
    - Manejo de ficheros (`fopen`, `fwrite`, `fread`)
    - Almacenamiento permanente
 
