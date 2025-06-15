@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730570340 source:c:\users\samu\desktop\uni\1 ero de ingeniería de computadores\primer cuatrimestre\suspensas\taller de programación\práctica - 5\practica - 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

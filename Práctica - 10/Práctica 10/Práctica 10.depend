@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734959111 source:c:\users\samu\desktop\práctica 10\main.c
+	"stdio.h"
+	"time.h"
+	"stdlib.h"
+
+1734959111 source:c:\users\samu\desktop\uni\1 ero de ingeniería de computadores\primer cuatrimestre\suspensas\taller de programación\práctica - 10\práctica 10\main.c
+	"stdio.h"
+	"time.h"
+	"stdlib.h"
+
